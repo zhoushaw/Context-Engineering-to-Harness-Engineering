@@ -1,7 +1,7 @@
 # 第二十届 D2 - 从上下文工程到 Harness Engineering -- 分享人周晓
 
 > 分享人：周晓 | Web Infra AI Coding 负责人
-> 第二十届 D2 技术大会 · 2026.03.24 · 阿里巴巴全球总部
+> 第二十届 D2 技术大会 · 2026.03.21 · 阿里巴巴全球总部
 
 - PDF：[第二十届 d2-从上下文工程到 Harness Engineering-zhouxiao.pdf](https://github.com/zhoushaw/Context-Engineering-to-Harness-Engineering/blob/main/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%B1%8A%20d2-%E4%BB%8E%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B%E5%88%B0%20Harness%20Engineering-zhouxiao.pdf)
 - 视频：[从上下文工程到 Harness Engineering-周晓.mp4](https://github.com/zhoushaw/Context-Engineering-to-Harness-Engineering/blob/main/%E4%BB%8E%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B%E5%88%B0%20Harness%20Engineering-%E5%91%A8%E6%99%93.mp4)
@@ -41,7 +41,7 @@
 
 ![Slide 04](./slides/slide-04.png)
 
-在开始前先给大家看一个词云。这个词云来自我们团队举办的一个年中活动，当时公司里面的同事提了非常多的问题，我从这些问题里面提取了一些关键词。可以看得出来大家非常焦虑——明明现在 AI Coding 已经这么强大了，代码生成速度这么快的情况下，为什么我们反而感觉到更不安了？前端的出路在哪里？我相信大家一直在思考这个问题。我们的护城河又是什么？
+在开始前先给大家看一个词云。这个词云来自我们团队举办的一个年终活动，当时公司里面的同事提了非常多的问题，我从这些问题里面提取了一些关键词。可以看得出来大家非常焦虑——明明现在 AI Coding 已经这么强大了，代码生成速度这么快的情况下，为什么我们反而感觉到更不安了？前端的出路在哪里？我相信大家一直在思考这个问题。我们的护城河又是什么？
 
 ---
 
